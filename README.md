@@ -176,4 +176,6 @@ Created by [Nallapulikitha](https://github.com/Nallapulikitha) – feel free to 
 
 ---
 
-### **Screenshots (Optional)**
+### **Screenshots**
+![image](https://github.com/user-attachments/assets/a4296cc5-ab27-4545-b001-19652626c459)
+
